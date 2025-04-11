@@ -378,7 +378,6 @@ span {
 }
 
 .review-head p {
-  color:black;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -1219,10 +1218,7 @@ span {
   color: var(--text-color);
 }
 
-.review-person small {
-  color: #9ca3af; /* podés reemplazar por una variable si tenés tono gris */
-  font-size: 13px;
-}
+
 
 /** por que elegirnos **/
 
@@ -1371,11 +1367,7 @@ span {
 }
 .review-person h5 {
   margin: 0;
-  font-size: 1rem;
-}
-.review-person small {
-  font-size: 0.875rem;
-  color: #666;
+  font-size: 2rem;
 }
 
 /* Responsive */
